@@ -14,3 +14,9 @@ The list of pharmacies can be filtered by distance.
 If the display is located at a pharmacy and this one is on standby, you have the ability to put a custom message on the display instead of the address.
 As the data is locally stored, short network issues shouldn't be a problem. Entries get removed automatically if they time out even if network connection gets lost.
 
+
+
+**WARNING:**
+I don't know if it's ok to use "apothekenfinder.mobi" in this way. I asked the operators but didn't get a reply so i assumed it's ok ;)
+
+**If you want to use their API please ask in advance**
